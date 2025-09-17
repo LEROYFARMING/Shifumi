@@ -6,10 +6,10 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f7fa; /* Cette couleur de fond est un fallback si l'image ne charge pas */
-    background-image: url('images/paysage.gif'); /* Remplace par ton chemin d'image */
-    background-size: cover; /* Permet à l'image de recouvrir toute la page */
-    background-position: center center; /* Centre l'image */
+    background-color: #f4f7fa;
+    background-image: url('images/paysage.gif');
+    background-size: cover;
+    background-position: center center;
     color: #333;
     display: flex;
     flex-direction: column;
