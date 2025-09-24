@@ -1,3 +1,3 @@
 # Shifumi
 
-lien : https://leroyfarming.github.io/Shifumi/
+lien : https://jaysoooooon.github.io/Shifumi/
